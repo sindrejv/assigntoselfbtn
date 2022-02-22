@@ -1,0 +1,23 @@
+.btn {
+  background-color: #ddd;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+  height: auto;
+  width: 100%;
+}
+
+.btn:hover {
+  background-color: #1160b7;
+  color: white;
+  cursor: pointer;
+}
+
+#id-ccb995bc-0dc2-eb11-bacc-0022489a456b-21-pp_assigntome-empty-icon {
+  /* This is needed to center the pcf if logical name is hidden */
+  display: none;
+}
